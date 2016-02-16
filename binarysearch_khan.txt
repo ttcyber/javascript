@@ -35,5 +35,3 @@ println("Found prime at index " + result);
 Program.assertEqual(doSearch(primes, 73), 20);
 Program.assertEqual(doSearch(primes, 5), 3);
 Program.assertEqual(doSearch(primes, 97), 25);
-
-//cwc  not really sure what Program.assertEqual(doSearch(primes, 73), 20); does.
